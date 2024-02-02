@@ -120,6 +120,7 @@ httpd.serve_forever()
 ```
 
 `При необходимости прикрепитe сюда скриншоты
+
 ![Работа балансировки](https://github.com/wintercomesX/sflt-homework2/blob/main/sflt-homework2/img/png1.PNG)`
 
 
@@ -200,7 +201,9 @@ backend web_servers    # секция бэкенд
 ```
 
 `При необходимости прикрепитe сюда скриншоты
+
 ![Ошибка при обращении на адрес без указания хоста](https://github.com/wintercomesX/sflt-homework2/blob/main/sflt-homework2/img/png2.PNG)`
+
 ![Обращение на адрес с указанием хоста](https://github.com/wintercomesX/sflt-homework2/blob/main/sflt-homework2/img/png3.PNG)`
 
 
